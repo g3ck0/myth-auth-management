@@ -1,0 +1,31 @@
+<?php
+return [
+    'permision_new_title' => "Add new Permission",
+    'permission_edit_title' => "Edit Permission",
+    'permission_remove' => "Do you want to delete the Permission?",
+    'permission_error_validation' => "There was an error to create the Permission",
+    'permission_error_validation_update' => "There was an error to update the Permission",
+    'role_new_title' => "Add new Role",
+    'role_edit_title' => "Edit Role",
+    'role_remove' => "Do you want to delete the Role?",
+    'role_remove_all_permissions' => "Do you want to remove all Permissions?",
+    'role_permissions_availables' => "Permissions Availables",
+    'role_permissions_assigned' => "Permissions Assigned",
+    'role_permissions_removed' => "Permissions Removed",
+    'role_error_validation' => "There was an error to create the Role",
+    'role_error_validation_update' => "There was an error to update the Role",
+    'user_error_validation_update' => "There was an error to update the User",
+    'user_roles_assigned' => "The User have been assigned to the Roles ",
+    'user_roles_list_availables' => "Roles Availables",
+    'user_roles_list_assigned' => "Roles Assigned",
+    'user_edit_title' => "Edit User",
+    'user_suspend' => "Ban",
+    'user_suspend_reason' => "Ban Reason",
+    'user_activate' => "Activate",
+    'user_force_change_pwd' => "Force Change Password",
+
+    'list_empty' => "Empty List",
+    'list_move_all' => "Move All",
+    'list_remove_all' => "Remove All",
+
+];
