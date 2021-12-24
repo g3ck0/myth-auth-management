@@ -4,6 +4,7 @@ I tried to put this here, but i was not able to do it.
 
 Using the reposotiry from https://github.com/lonnieezell/myth-auth to apply the management section:
 
+- Codeigner 4.1.5
 - Template on Bootstrap 5
 - Swal
 - Toastr
