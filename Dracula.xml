@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomColorScheme xmlns="http://xmlns.oracle.com/jdeveloper/1013/editor">
+    <name>Dracula</name>
+    
+    <!-- Basic Editor Colors -->
+    <background>#282a36</background>
+    <text>#f8f8f2</text>
+    <currentLineHighlight>#44475a</currentLineHighlight>
+    <selectionBackground>#44475a</selectionBackground>
+    <gutterBackground>#21222c</gutterBackground>
+    <lineNumber>#6272a4</lineNumber>
+
+    <!-- Syntax Highlighting -->
+    <ReservedKeyword>
+        <Foreground style="13">#ff79c6</Foreground> <!-- Pink -->
+    </ReservedKeyword>
+    
+    <DataType>
+        <Foreground style="14">#8be9fd</Foreground> <!-- Cyan -->
+    </DataType>
+    
+    <PLSQLReservedKeyword>
+        <Foreground style="13">#ff79c6</Foreground> <!-- Pink -->
+    </PLSQLReservedKeyword>
+    
+    <String>
+        <Foreground style="12">#f1fa8c</Foreground> <!-- Yellow -->
+    </String>
+    
+    <Number>
+        <Foreground style="11">#ffb86c</Foreground> <!-- Orange -->
+    </Number>
+    
+    <Comment>
+        <Foreground style="10">#6272a4</Foreground> <!-- Comment Grey-Blue -->
+    </Comment>
+    
+    <TableAlias>
+        <Foreground style="16">#50fa7b</Foreground> <!-- Green -->
+    </TableAlias>
+    
+    <Function>
+        <Foreground style="16">#50fa7b</Foreground> <!-- Green -->
+    </Function>
+    
+    <QuotedIdentifier>
+        <Foreground style="15">#f1fa8c</Foreground> <!-- Yellow -->
+    </QuotedIdentifier>
+    
+    <Operator>
+        <Foreground style="4">#ff5555</Foreground> <!-- Red -->
+    </Operator>
+    
+    <BindVariable>
+        <Foreground style="16">#bd93f9</Foreground> <!-- Purple -->
+    </BindVariable>
+    
+    <PLSQLIdentifier>
+        <Foreground style="16">#f8f8f2</Foreground> <!-- Off-White -->
+    </PLSQLIdentifier>
+</CustomColorScheme>
